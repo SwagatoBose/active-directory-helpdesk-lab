@@ -26,9 +26,37 @@ Reset the user's Active Directory password and verify successful domain authenti
 
 ## Verification
 
-The user successfully authenticated to the `corp.local` domain.
 
 The `whoami` command returned:
+
+
+```text
+corp\neha.sharma
+
+
+
+
+## Screenshots
+
+### Password Reset
+
+![Neha password reset](01-neha-password-reset.png)
+
+### Successful Domain Login
+
+![Neha successful login](02-neha-successful-login.png)
+
+## Skills Practiced
+
+- Active Directory Users and Computers
+- Active Directory password management
+- Domain authentication
+- Windows user administration
+- Command-line verification
+
+## Security Note
+
+No passwords or authentication credentials are stored in this repository.
 
 ```text
 corp\neha.sharma
