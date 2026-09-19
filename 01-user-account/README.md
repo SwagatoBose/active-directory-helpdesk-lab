@@ -35,11 +35,11 @@ The account properties were checked in Active Directory Users and Computers, and
 
 ### User Account Configuration
 
-![Neha account properties](../01-neha-account-properties.png)
+![Neha account properties](01-neha-account-properties.png)
 
 ### HR Department Group Membership
 
-![HR Department membership](../02-hr-department-membership.png)
+![HR Department membership](02-hr-department-membership.png)
 
 ## Skills Practiced
 
