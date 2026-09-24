@@ -68,7 +68,7 @@ The test file inside the folder was successfully accessible.
 
 ### Successful Access After Fix
 
-![Neha shared folder access](03-neha-shared-folder-access.png)
+![Neha shared folder access](04-neha-shared-folder-access.png)
 
 ---
 
